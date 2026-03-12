@@ -1,18 +1,18 @@
 Excel Projects: This repository contains Excel projects demonstrating different data analysis techniques and functions.
 
 Topics Covered:
-Pivot table
-Countif
-Xlookup
-Index and match
-conditional formatting
-If
-Textsplit
-Copilot
-replace
-textbefore and textafter
-relative, absolute and mixed refrences
-Finding outliers using box and whiskers chart
+Pivot table,
+Countif,
+Xlookup,
+Index and match,
+conditional formatting,
+If,
+Textsplit,
+Copilot,
+replace,
+textbefore and textafter,
+relative, absolute and mixed refrences,
+Finding outliers using box and whiskers chart.
 
 File Included
 Excel Projects-Akshaya.xlsx
